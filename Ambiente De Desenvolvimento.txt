@@ -1,0 +1,30 @@
+PASSO A PASSO
+
+se você chegou até aqui e porque leu toda documentação do software
+caso contrario porfavor leia para o entendimento total do projeto.
+
+essa pasta contém todos os software necessarios para
+o desenvolvimento do projeto QUEBRA CABECA.
+
+1 - Instale os softwares na seguinte ordem
+ 	1 - JavaSetup8u221 Link para download:https://www.java.com/pt_BR/download/
+
+	2 - jdk-8u221-Windows; OBS: Caso sua maquina seja um outro 
+	    sistema operacional, baixar um da respectiva versão
+	    Link para Download:
+	    https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
+	3 - netbeans-8.2 Windows OBS: Caso sua maquina seja um outro 
+	    sistema operacional, baixar um da respectiva versão
+	    Link para download: https://netbeans.org/downloads/8.2/
+	    video de introdutorio para uso do netbeans: 
+	    https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR
+
+	
+	4 - Photoshop cs6 - esse software e caso queira desenvolver o "front end" 
+	    do projeto, não e essencial mas um diferencial.
+	    Link para download:
+	    https://dc365.4shared.com/download/QLXu2hPrgm/Photoshop_CS6_Portable.rar?tsid=20190922-134608-d396e222&sbsr=09a576bcc99caeaf94aa6b3c50c60740a22&bip=MTUyLjIzOC41Ny42&lgfp=30
+
+após a instalação de todos os softwares, baixar a pasta "Quebra cabeca" localizada no github
+com esses softwares será possivel fazer todas alterações.
