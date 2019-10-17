@@ -1,30 +1,34 @@
 PASSO A PASSO
 
-se vocÍ chegou atÈ aqui e porque leu toda documentaÁ„o do software
+se voc√™ chegou at√© aqui e porque leu toda documenta√ß√£o do software
 caso contrario porfavor leia para o entendimento total do projeto.
 
-essa pasta contÈm todos os software necessarios para
+essa pasta cont√©m todos os software necessarios para
 o desenvolvimento do projeto QUEBRA CABECA.
 
 1 - Instale os softwares na seguinte ordem
+	os softwares podem ser encontrado no seguinte link do dropbox
+		https://www.dropbox.com/sh/zsd8arlchqdo0e3/AADExQm2UxDfKmRo4oi7nvQZa?dl=0
+		ou nos links dos sites oficiais passados a seguir...
+		
  	1 - JavaSetup8u221 Link para download:https://www.java.com/pt_BR/download/
 
 	2 - jdk-8u221-Windows; OBS: Caso sua maquina seja um outro 
-	    sistema operacional, baixar um da respectiva vers„o
+	    sistema operacional, baixar um da respectiva vers√£o
 	    Link para Download:
 	    https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 
 	3 - netbeans-8.2 Windows OBS: Caso sua maquina seja um outro 
-	    sistema operacional, baixar um da respectiva vers„o
+	    sistema operacional, baixar um da respectiva vers√£o
 	    Link para download: https://netbeans.org/downloads/8.2/
 	    video de introdutorio para uso do netbeans: 
 	    https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR
 
 	
 	4 - Photoshop cs6 - esse software e caso queira desenvolver o "front end" 
-	    do projeto, n„o e essencial mas um diferencial.
+	    do projeto, n√£o e essencial mas um diferencial.
 	    Link para download:
 	    https://dc365.4shared.com/download/QLXu2hPrgm/Photoshop_CS6_Portable.rar?tsid=20190922-134608-d396e222&sbsr=09a576bcc99caeaf94aa6b3c50c60740a22&bip=MTUyLjIzOC41Ny42&lgfp=30
 
-apÛs a instalaÁ„o de todos os softwares, baixar a pasta "Quebra cabeca" localizada no github
-com esses softwares ser· possivel fazer todas alteraÁıes.
+ap√≥s a instala√ß√£o de todos os softwares, baixar a pasta "Quebra cabeca" localizada no github
+com esses softwares ser√° possivel fazer todas altera√ß√µes.
